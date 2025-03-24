@@ -1,0 +1,6 @@
+@ApiEmpleadosMultiplesRutas_HostAddress = http://localhost:5157
+
+GET {{ApiEmpleadosMultiplesRutas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
