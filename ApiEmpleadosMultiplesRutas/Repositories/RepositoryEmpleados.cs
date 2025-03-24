@@ -1,5 +1,5 @@
 ﻿using ApiEmpleadosMultiplesRutas.Data;
-using ApiEmpleadosMultiplesRutas.Models;
+using NugetApiModelsSVR;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiEmpleadosMultiplesRutas.Repositories

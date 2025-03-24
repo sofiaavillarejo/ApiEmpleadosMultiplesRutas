@@ -25,7 +25,7 @@ app.MapOpenApi();
 app.UseHttpsRedirection();
 app.UseSwaggerUI(options =>
 {
-    options.SwaggerEndpoint("/openapi/v1.json", "Api Empleados Routes");
+    options.SwaggerEndpoint("/openapi/v1.json", "Api Empleados Routess");
     options.RoutePrefix = "";
 });
 
